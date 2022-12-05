@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Firstbranch first file.
-=======
 firstbranch first file.
->>>>>>> firstbranch
